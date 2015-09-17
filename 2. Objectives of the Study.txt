@@ -3,7 +3,8 @@ The general objective of the study is to develop an Android-based game for fun a
 a.	An application that can be installed on an Android devices.
 b.	Develop an application that can scan and decode QR codes and Barcodes for monster generation.
 c.	Develop an application that can emulate monster breeding, monster training, and monster battles.
-d.	Develop an application that would be able to support single player mode if the user wants to play offline and multiplayer capability if the user were to play with other users.
+d.	Develop an application that would be able to support single player mode offline.
+e.	Develop an application that would be able to support multiplayer mode online or through WLAN connection.
 
 2.	Create the application using (tools):
 a.	Unity 3D
