@@ -1,0 +1,16 @@
+Scope:
+	Monster Raising – choose a monster and take care of it, feed it and train it, and battle other monsters to become the strongest monster ever.
+	Monster Life Span – even the best among the rest grows old, do not forget to retire your monster whenever he feels old.
+	Monster Training – train your monsters raise to its attributes. You can either make your monster Work to earn money and raise Attributes at the same time, or Special Training which costs a certain amount and raise the attributes greatly. And also, don’t forget to make your monsters rest to reduce their tiredness.
+	Monster Breeding – you can freeze a monster anytime to prevent it from aging, and Breed it to other frozen monster to create an offspring that may acquire some of the previous attributes of its parents.
+	Monster Tournaments – battle other monsters in a tournament, to earn prize money or prize item. Participating in an unofficial tournament will grant prize money and/or prize item to the champion, while participating in an official tournament will advance the monster to the next rank and will grant with prize money to the champion. This feature is only available through Internet connectivity.
+	Monster Duel – challenge your friends and their monster to duel or you can also conduct an unofficial tournament of up to 4 people and prove that you the best trainer amongst them. This feature is available through wireless local area connectivity.
+	Monster Virtualization – acquire monsters by scanning barcode or QR code, each code contains a monster.
+
+Limitations:
+	Multiplayer mode is not available if the device does not have wireless network support.
+	Multiplayer mode is not available if there is no available network nearby.
+	The Monster Virtualization feature cannot be used if the device does not have a rear camera.
+	Some of the mini games cannot be played if the device does not support tilt.
+	The game is developed only for touch screen devices.
+	The game can be only implemented on Android devices.

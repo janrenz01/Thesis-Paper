@@ -1,0 +1,29 @@
+The general objective of the study is to develop an Android-based game for fun and enjoyment. Specifically it aims to:
+1.	Design a game with the following characteristics:
+a.	An application that can be installed on an Android devices.
+b.	Develop an application that can scan and decode QR codes and Barcodes for monster generation.
+c.	Develop an application that can emulate monster breeding, monster training, and monster battles.
+d.	Develop an application that would be able to support single player mode if the user wants to play offline and multiplayer capability if the user were to play with other users.
+
+2.	Create the application using (tools):
+a.	Unity 3D
+Unity3D is a powerful cross-platform 3D engine and a user friendly development environment. Easy enough for the beginner and powerful enough for the expert; Unity is used to easily create 3D games and applications for mobile, desktop, the web, and consoles.
+b.	Monodevelop by Unity
+Monodevelop is a development IDE for writing code in C# and JavaScript.
+c.	Blender
+Blender is a professional free and open-source 3D computer graphics software product used for creating animated films, visual effects, art, 3D printed models, interactive 3D applications and video games.
+d.	Adobe Photoshop
+Adobe Photoshop is a raster graphics editor developed and published by AdobeSystems for Windows and OS X,
+e.	Genymotion
+Genymotion is a third-party Android emulator.
+
+3.	Test and Improve the application in terms of:
+a.	Functionality
+b.	Reliability
+c.	Usability
+d.	Efficiency
+e.	Portability
+f.	Maintainability
+g.	Crowd Satisfaction
+
+4.	Determine the level of acceptability of the application using ISO 9126.
