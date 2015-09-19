@@ -1,4 +1,4 @@
-Scope:
+﻿Scope:
 	Monster Raising – choose a monster and take care of it, feed it and train it, and battle other monsters to become the strongest monster ever.
 	Monster Life Span – even the best among the rest grows old, do not forget to retire your monster whenever he feels old.
 	Monster Training – train your monsters raise to its attributes. You can either make your monster Work to earn money and raise Attributes at the same time, or Special Training which costs a certain amount and raise the attributes greatly. And also, don’t forget to make your monsters rest to reduce their tiredness.
@@ -8,6 +8,15 @@ Scope:
 	Monster Virtualization – acquire monsters by scanning barcode or QR code, each code contains a monster.
 
 Limitations:
+The game is developed only for touch screen devices.
+The game can only be implemented on Android devices.
+The minimum Android Operating System required is Android 4.2.0 (Android Jelly Bean)
+Multiplayer mode is not available if the device have faulty wireless network card.
+Multiplayer can only be played if there are other players nearby.
+The Monster Virtualization feature cannot be used if the device have faulty rear camera.
+Some of the mini games cannot be played if the device have faulty tilt functionality.
+
+
 	Multiplayer mode is not available if the device does not have wireless network support.
 	Multiplayer mode is not available if there is no available network nearby.
 	The Monster Virtualization feature cannot be used if the device does not have a rear camera.
